@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+
+
+  app:
+    build: './app'
+    container_name: 'app'
+    ports:
+      - "8000:8000"
+    volumes:
+      - type: 'bind'
+        source: './volumes/refinitiv_project'
+        target: '/app' 

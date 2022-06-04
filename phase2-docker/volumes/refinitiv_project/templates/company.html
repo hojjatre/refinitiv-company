@@ -1,0 +1,41 @@
+{% load rest_framework %}
+
+<html lang="en">
+<head>
+    <title>Show all Companies</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+  
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">name</th>
+            <th scope="col">ESG_score</th>
+            <th scope="col">rank</th>
+            <th scope="col">environment</th>
+            <th scope="col">social</th>
+            <th scope="col">governance</th>
+            <th scope="col">company_ticker</th>
+          </tr>
+        </thead>
+        
+        <tbody>
+          <tr class="table-success">
+            <td>{{data.name}}</td>
+            <td>{{data.ESG_score}}</td>
+            <td>{{data.rank}}</td>
+            <td>{{data.environment}}</td>
+            <td>{{data.social}}</td>
+            <td>{{data.governance}}</td>
+            <td>{{data.company_ticker}}</td>
+          </tr>
+        </tbody>
+      </table>
+</body>
+</html>
