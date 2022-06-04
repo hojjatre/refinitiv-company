@@ -1,0 +1,113 @@
+,name,ESG_score,rank,environment,social,governance,company_ticker
+0,Empresas CMPC SA,72,13/74,74,65,77,CMPC.SN
+1,GPT Group,82,19/448,89,76,78,GPT.AX
+2,Changchun High & New Technology Industries Group Inc,50,121/376,43,46,60,000661.SZ
+3,Banco Bilbao Vizcaya Argentaria Colombia SA,47,359/994,23,72,22,BGA.CN
+4,Kimball Electronics Inc,53,84/232,37,83,22,KE.O
+5,Sociedad Comercial del Plata SA,12,364/410,0,12,30,COME.BA
+6,Carboclor SA,13,303/325,4,16,26,CARC.BA
+7,Servcorp Ltd,38,227/396,19,49,46,SRV.AX
+8,Omni Bridgeway Ltd,34,598/994,8,37,40,OBL.AX
+9,VGI PCL,69,26/256,48,76,66,VGI.BK
+10,Importadora y Exportadora de la Patagonia SA,15,138/151,7,20,14,PATA.BA
+11,GUD Holdings Ltd,26,184/229,7,31,45,GUD.AX
+12,Compania de Transporte de Energia Electrica en Alta Tension Transener SA,33,201/262,33,28,39,TRAN.BA
+13,Ferrum SA de Ceramica y Metalurgia,27,118/155,21,22,42,FERR.BA
+14,Village Roadshow Ltd,44,145/319,35,33,69,VRL.AX
+15,Ringkjoebing Landbobank A/S,40,486/994,51,47,26,RILBA.CO
+16,Mcmillan Shakespeare Ltd,53,271/994,20,59,58,MMS.AX
+17,BTG Hotels Group Co Ltd,24,245/319,0,5,75,600258.SS
+18,Shanghai Waigaoqiao Free Trade Zone Group Co Ltd,47,189/396,53,47,40,600648.SS
+19,Cardno Ltd,40,123/220,38,37,47,CDD.AX
+20,Imdex Ltd,51,211/554,35,68,45,IMD.AX
+21,DZS Inc,18,94/110,24,15,18,DZSI.O
+22,IJM Corporation Bhd,50,88/220,49,58,39,IJMS.KL
+23,Hufvudstaden AB,70,46/396,82,85,40,HUFVa.ST
+24,Pure Foods Tasmania Ltd,8,362/373,0,11,10,PFT.AX
+25,Siv Capital Ltd,13,414/444,0,18,16,SIV.AX
+26,Cresud SACIF y A,42,213/373,55,19,69,CRES.BA
+27,AGFA Gevaert NV,62,59/328,63,86,31,AGFB.BR
+28,AT & S Austria Technologie & Systemtechnik AG,58,65/232,35,74,59,ATSV.VI
+29,Pharmaxis Ltd,38,173/376,0,60,34,PXS.AX
+30,China Molybdenum Co Ltd,75,53/554,85,68,73,603993.SS
+31,Via Varejo SA,45,130/264,49,55,33,VVAR3.SA
+32,White Energy Company Ltd,24,40/55,14,27,35,WEC.AX
+33,Dfds AS,55,53/172,41,45,84,DFDS.CO
+34,Morixe Hermanos SACI,5,370/373,0,6,10,MORI.BA
+35,Aluar Aluminio Argentino SAIC,19,425/554,21,28,3,ALUA.BA
+36,Palfinger AG,57,192/555,63,73,28,PALF.VI
+37,Jtekt Corp,43,310/555,58,54,10,6473.T
+38,Sonic Healthcare Ltd,73,15/181,81,75,66,SHL.AX
+39,Zumtobel Group AG,60,147/555,39,76,66,ZUMV.VI
+40,Electro Optic Systems Holdings Ltd,20,92/109,0,31,20,EOS.AX
+41,Garovaglio y Zorraquin SA,4,371/373,4,1,11,GARO.BA
+42,Metcash Ltd,54,59/151,39,47,78,MTS.AX
+43,Bellevue Gold Ltd,18,432/554,2,25,28,BGL.AX
+44,Sigdo Koppers SA,16,54/61,16,17,13,SK.SN
+45,PVH Corp,83,4/117,70,84,88,PVH
+46,Webjet Ltd,35,192/319,24,36,44,WEB.AX
+47,Adbri Ltd,50,39/86,53,39,63,ABC.AX
+48,HDFC Bank Ltd,73,95/994,60,74,77,HDBK.NS
+49,Itau Corpbanca,47,371/994,14,50,55,ITAUCORP.SN
+50,Seek Ltd,41,204/444,31,29,62,SEK.AX
+51,QBE Insurance Group Ltd,77,22/305,89,87,62,QBE.AX
+52,Bank of Ningbo Co Ltd,52,284/994,46,39,73,002142.SZ
+53,Hangzhou Silan Microelectronics Co Ltd,14,217/232,19,10,13,600460.SS
+54,Central Puerto SA,46,133/262,43,37,65,CEPU.BA
+55,Iluka Resources Ltd,68,101/554,57,65,88,ILU.AX
+56,Camuzzi Gas Pampeana SA,12,56/58,3,15,18,CGPA2.BA
+57,TietoEVRY Corp,64,92/811,77,79,46,TIETO.HE
+58,Industrias CH SAB de CV,2,551/554,0,1,6,ICHB.MX
+59,Salzgitter AG,62,139/554,81,49,57,SZGG.DE
+60,Banco Hipotecario SA,66,147/994,18,83,62,BHIP.BA
+61,Holcim Argentina SA,66,17/86,59,79,58,HARG.BA
+62,PGS ASA,62,43/217,62,49,79,PGS.OL
+63,Ainsworth Game Technology Ltd,21,257/319,6,22,32,AGI.AX
+64,SQZ Biotechnologies Co,23,386/535,12,40,14,SQZ
+65,Tap Oil Ltd,16,342/410,7,10,38,TAP.AX
+66,PCCW Ltd,61,63/263,74,60,53,0008.HK
+67,Dotz Nano Ltd,11,113/118,0,20,15,DTZ.AX
+68,Unipar Indupa SAIC,13,304/325,1,2,54,INDU.BA
+69,Empresa Distribuidora y Comercializadora Norte SA,45,141/262,29,41,79,EDN.BA
+70,Australia and New Zealand Banking Group Ltd,87,13/994,65,90,91,ANZ.AX
+71,TJX Companies Inc,73,8/110,95,93,33,TJX
+72,Bushveld Minerals Ltd,43,6/15,22,36,78,BMNB.L
+73,WPP Aunz Ltd,29,168/256,4,44,19,WPP.AX
+74,Clinuvel Pharmaceuticals Ltd,37,178/376,0,46,49,CUV.AX
+75,Kapsch Trafficcom AG,64,20/124,51,80,55,KTCG.VI
+76,Liquefied Natural Gas Ltd,30,234/410,12,25,64,LNG.AX
+77,Fiberhome Telecommunication Technologies Co Ltd,56,39/124,43,55,65,600498.SS
+78,Perpetual Ltd,74,29/373,69,68,81,PPT.AX
+79,PZ Cussons PLC,45,47/94,28,47,58,PZC.L
+80,Mazda Motor Corp,66,39/229,84,67,40,7261.T
+81,BWP Trust,19,396/448,29,17,10,BWP.AX
+82,Dexus,93,1/448,93,96,90,DXS.AX
+83,Rohm Co Ltd,83,6/232,87,76,90,6963.T
+84,Newcrest Mining Ltd,69,92/554,58,70,85,NCM.AX
+85,Totvs SA,81,17/811,48,82,89,TOTS3.SA
+86,YPF SA,63,70/410,50,61,86,YPFD.BA
+87,Celulosa Argentina SA,6,74/74,9,4,5,CELU5.BA
+88,TDK Corp,69,82/555,84,73,44,6762.T
+89,Commonwealth Bank of Australia,87,9/994,82,87,90,CBA.AX
+90,Byd Co Ltd,54,90/229,67,27,80,002594.SZ
+91,Navigator Global Investments Ltd,32,262/373,0,42,32,NGI.AX
+92,NKT A/S,59,160/555,57,70,47,NKT.CO
+93,Kloeckner & Co SE,57,174/554,35,61,80,KCOGn.DE
+94,AFH Financial Group PLC,17,337/373,6,19,20,AFHP.L
+95,Turquoise Hill Resources Ltd,46,245/554,32,43,70,TRQ.TO
+96,Spark Infrastructure Group,43,152/262,32,44,64,SKI.AX
+97,Fnac Darty SA,52,47/110,46,43,65,FNAC.PA
+98,Dycasa SA,21,191/220,15,25,25,DYCA.BA
+99,Curtiss-Wright Corp,31,71/109,12,44,29,CW
+100,Hills Ltd,41,202/444,30,34,56,HIL.AX
+101,Yunnan Baiyao Group Co Ltd,38,174/376,45,30,45,000538.SZ
+102,Boart Longyear Ltd,52,205/554,26,57,79,BLY.AX
+103,Ledesma SAAI,45,196/373,57,44,33,LEDE.BA
+104,Mercadolibre Inc,55,175/811,63,77,34,MELI.O
+105,Remy Cointreau SA,65,31/112,97,57,43,RCOP.PA
+106,PNE AG,23,60/71,7,32,35,PNEGn.DE
+107,NZX Ltd,50,150/373,7,43,69,NZX.NZ
+108,Flinders Mines Ltd,16,458/554,5,15,35,FMS.AX
+109,Longvie SA,20,56/70,40,1,22,LONG.BA
+110,Brickworks Ltd,51,37/86,43,52,65,BKW.AX
+111,CJ Corp,10,353/373,0,2,34,001040.KS
